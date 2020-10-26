@@ -43,8 +43,7 @@ that the 5 day returns are expected to decline and level out over that period.
 An ARIMA model was created using the raw settle price data.  When reviewing
 the ARIMA model summary, it can be seen that the p-values are also well 
 above 0.05, making this model not a good fit as well.  Based on plotting
-the 5 days futures price forecast, the price is forecasted to increase
-over that time period from 9224 to 9228. 
+the 5 days futures price forecast, the price is forecasted to increase over that time period from 9224 to 9228. 
 ![](5_day_price.PNG)
 
 ### GARCH Model Analysis 
